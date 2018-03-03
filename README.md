@@ -26,7 +26,7 @@ Dedicated, hardworking, self-motivated, individual/team player with excellent ti
   - Dabbled in: HTML, Python, Swift
 
 **Carlsbad High School**
-  - 4.1 Academic GPA | 14 AP and Honors Courses
+  - 4.1 Academic GPA \| 14 AP and Honors Courses
   - Received High School Diploma and graduated with honors
   - Varsity Swim Team, Robotics Club, Red Cross Club, National Honors Society, and Academy Internship
   
@@ -74,6 +74,12 @@ Simply Science
   -	Volunteer-based program where high school students share their scientific knowledge and passion in a series of 2-3 hands-on experiments and lectures. Objective was to enhance scientific knowledge of active, young minds
   -	Communicate workshop plans with colleagues, research experiments, and deliver lectures/experiments to Elementary students
 
+## Projects
+- **2048**
+  - Adaptation of popular iOS game in Java
+  - Utilizes Java GUI. Incorporated a two-dimensional ArrayList to create a grid, that calls methods from other separate classes responsible for different roles (tile spawning, game logic, color, etc.)
+
 ## Additional Information
 **Interests**: Swimming, Space, Robotics, Virtual and Augmented Reality, Artificial Intelligence, Video Games, Drawing, and Graphic design
+
 **Skills**: knowledge in Adobe Photoshop, After Effects, Premiere Pro, Cinema 4D, Microsoft Office, and PC building | American Red Cross Certified, AED, CPR, and Advanced First Aid
