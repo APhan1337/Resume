@@ -82,4 +82,4 @@ Simply Science
 ## Additional Information
 **Interests**: Swimming, Space, Robotics, Virtual and Augmented Reality, Artificial Intelligence, Video Games, Drawing, and Graphic design
 
-**Skills**: knowledge in Adobe Photoshop, After Effects, Premiere Pro, Cinema 4D, Microsoft Office, and PC building | American Red Cross Certified, AED, CPR, and Advanced First Aid
+**Skills**: knowledge in Adobe Photoshop, After Effects, Premiere Pro, Cinema 4D, Microsoft Office, and PC building \| American Red Cross Certified, AED, CPR, and Advanced First Aid
